@@ -2,10 +2,6 @@
 
 Mountain nowcasting with a deep neural network.
 
-<<<<<<< HEAD
-Test.
-bonjour monsieur 
-=======
 ## Setup
 
 Conda is the recommended way to install everything, you may encounter errors with pip.
