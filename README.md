@@ -22,4 +22,3 @@ If errors while importing, either add relevant path in python script with a line
 ## On our project
 
 Testing project notebooks is in the `/testing` folder.
->>>>>>> 911a953708c0c577cbbc90beea29fbcc17dd8dd3
